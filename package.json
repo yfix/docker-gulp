@@ -1,5 +1,5 @@
 {
-  "name": "eloplay",
+  "name": "yfix-docker-gulp",
   "version": "1.0.0",
   "description": "Gulp project",
   "main": "gulpfile.js",
@@ -7,15 +7,11 @@
     "test": "test"
   },
   "keywords": [
-    "eloplay",
-    "csgo",
-    "lol"
+    "gulp"
   ],
   "author": "YFix Team",
   "license": "ISC",
   "dependencies": {
-  },
-  "devDependencies": {
     "browser-sync": "^2.13.0",
     "browserify": "^13.0.1",
     "extend": "^3.0.0",
